@@ -2,7 +2,7 @@
 ### The 7 Operational Layers of Real World Asset Programmes
 
 **By Biljana Obradović** · CEBP™ · CBPM™ · PRINCE2® · Fintech Expert™  
-Founder, [Concept360](https://concept360.rs) · 101 Blockchains Advisory Council · Belgrade, Serbia
+Founder, [Concept360]([https://concept360.my.canva.site/]) · 101 Blockchains Advisory Council · Belgrade, Serbia
 
 ---
 
@@ -116,7 +116,7 @@ The 7 Operational Layers of RWA Programmes is an original analytical framework d
 
 **💼 Consulting**  
 Concept360 supports organisations entering regulated RWA programmes.  
-→ [concept360.rs](https://[concept360.my.canva.site/])
+→ (https://[concept360.my.canva.site/])
 
 ---
 
