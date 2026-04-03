@@ -14,11 +14,7 @@ The central thesis:
 
 > **RWA programmes do not fail because blockchain is hard. They fail because governance is introduced too late, compliance is treated as a gate rather than a dependency, and the programme is managed as a project.**
 
-This framework is the analytical backbone of:
-- 📘 *RWA Is Not a Tech Project — A Programme Manager's Guide to Real World Asset Delivery* (Amazon KDP, 2026)
-- 📄 *RWA Real Estate Tokenization in the Western Balkans — Operational Challenges and Delivery Framework* (Whitepaper, Concept360, 2026)
-- 🎓 *RWA Delivery for Managers* — professional training programme
-
+This framework supports ongoing research and consulting work in regulated RWA programme delivery.
 ---
 
 ## The 7 Operational Layers
@@ -118,17 +114,9 @@ The 7 Operational Layers of RWA Programmes is an original analytical framework d
 
 ## Want to Go Deeper?
 
-**📘 The Book**  
-*RWA Is Not a Tech Project — A Programme Manager's Guide to Real World Asset Delivery*  
-Available on Amazon KDP. Covers all seven layers in full depth, case studies, the four PM profiles, AI tools in the RWA PMO, maturity model, and the Western Balkans regional context.
-
-**🎓 The Training Programme**  
-*RWA Delivery for Managers* — one-day intensive workshop.  
-→ Contact: [LinkedIn](https://linkedin.com/in/biljanaobradovic)
-
 **💼 Consulting**  
 Concept360 supports organisations entering regulated RWA programmes.  
-→ [concept360.rs](https://concept360.rs)
+→ [concept360.rs](https://[concept360.my.canva.site/])
 
 ---
 
@@ -136,7 +124,7 @@ Concept360 supports organisations entering regulated RWA programmes.
 
 Published under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 You may use, adapt, and share this material — with attribution:  
-*"Biljana Obradović, Concept360, 2026 — github.com/concept360/rwa-delivery-framework"*
+*"Biljana Obradović, Concept360, 2026 — [https://github.com/Biobradovic/rwa-delivery-framework]*
 
 ---
 
