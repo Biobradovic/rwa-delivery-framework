@@ -38,13 +38,13 @@ All seven layers must be active **simultaneously**. A change in one cascades to 
 
 ## Contents of This Repository
 
-### 📋 [RWA Delivery Checklist](./checklist/RWA_Delivery_Checklist.md)
+### 📋 [RWA Delivery Checklist](./RWA_Delivery_Checklist.md)
 A structured activity sequence for RWA programme managers — organised by delivery phase (Pre-Delivery, Regulatory Preparation, Technical Implementation, Go-Live). Based on real delivery experience, not theory.
 
-### 🗂️ [Documentation Catalogue](./catalogue/RWA_Documentation_Catalogue.md)
+### 📊 [Documentation Catalogue](./RWA_Documentation_Catalogue.md)
 A reference list of the 53 documents required across a regulated RWA programme — organised by delivery phase and layer. Titles and descriptions only. This is the map; the documents are the territory.
 
-### 📊 [7 Layers Quick Reference](./framework/Seven_Layers_Quick_Reference.md)
+### 📊 [7 Layers Quick Reference](./Seven_Layers_Quick_Reference.md)
 One-page reference for each of the seven operational layers: entry question, key risks, PM responsibilities, and common failure patterns. Use this during programme reviews and go/no-go assessments.
 
 ---
