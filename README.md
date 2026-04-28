@@ -1,42 +1,60 @@
-# RWA Delivery Framework
-### The 7 Operational Layers of Real World Asset Programmes
+# Holistic RWA Delivery Framework
 
-**By Biljana Obradović** · CEBP™ · CBPM™ · PRINCE2® · Fintech Expert™  
-Founder, [Concept360](https://concept360.my.canva.site/) · 101 Blockchains Advisory Council · Belgrade, Serbia
+**The 7 Operational Layers of Real World Asset Programs**  
+*A structured delivery framework for program managers operating in regulated tokenization environments.*
 
 ---
 
-## What This Is
+## Why This Framework Exists
 
-This repository contains the public reference materials for the **RWA Delivery Framework** — an original analytical framework for programme managers, delivery leads, and senior practitioners responsible for taking Real World Asset tokenisation initiatives from concept to institutional-grade operation.
+Most RWA programs fail not because the technology doesn't work — but because the operational, regulatory, and financial layers were never properly sequenced. This framework maps the seven layers that every regulated RWA program must address, in the order they must be addressed.
 
-The central thesis:
+Built from 20+ years of delivery experience across fintech, banking, and BFSI environments.
 
-> **RWA programmes do not fail because blockchain is hard. They fail because governance is introduced too late, compliance is treated as a gate rather than a dependency, and the programme is managed as a project.**
-
-This framework supports ongoing research and consulting work in regulated RWA programme delivery.
 ---
 
 ## The 7 Operational Layers
 
-All seven layers must be active **simultaneously**. A change in one cascades to all others. This is why sequential thinking — build first, add compliance later — fails every time.
-
 | # | Layer | Key Delivery Responsibility | Where Programmes Get Stuck |
-|---|-------|----------------------------|---------------------------|
-|## Want to Go Deeper?
+|---|-------|-----------------------------|---------------------------|
+| 0 | **Economic Viability** | Does this asset actually need to be tokenised? Sustainable economics? | Teams skip Layer 0 and discover there is no investor demand post-launch |
+| 1 | **Asset** | Due diligence, legal ownership, SPV formation, independent valuation | Hidden encumbrances discovered at notarial stage — after technical work has started |
+| 2 | **Legal & Regulatory** | Token classification, CASP assessment, regulatory opinion, jurisdictional analysis | Wrong token class = full architectural redesign. CASP: 3–6 month timeline, never on the plan |
+| 3 | **Tokenisation** | Smart contract design & audit, token standard, whitelist, oracle, Proof of Reserves | Audit finding post-code-freeze = new audit cycle. PoR not in original architecture = migration |
+| 4 | **Financial Infrastructure** | SPV banking, custody model, settlement, ISO 20022 integration | Bank refuses SPV — programme stops. Custody model decided too late to change |
+| 5 | **Identity & Compliance** | KYC/AML workflow, investor onboarding, CASP licensing, ongoing monitoring | Onboarding bottleneck becomes go-live blocker. Revenue delayed 3–6 months |
+| 6 | **Market & Liquidity** | Secondary market architecture, minimum viable liquidity threshold, yield distribution | Platform launches without buyers. Investors cannot exit. Trust collapses |
+| 7 | **Governance & Reporting** | Decision rights, governance charter, audit trail — **runs across ALL layers from day one** | Governance vacuum post-launch. Regulatory finding. No clear owner when things go wrong |
 
-**💼 Consulting**  
-**Concept360 supports organisations entering regulated RWA programmes.  
-**[Concept360](https://concept360.my.canva.site/)
---**-
-
-## Licence
-
-Published under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-You may use, adapt, and share this material — with attribution:  
-*"Biljana Obradović, Concept360, 2026 — [https://github.com/Biobradovic/rwa-delivery-framework]*
+**Layer 7 is not a final step.** It is a horizontal layer — present in every phase, from the first programme decision to the last audit.
 
 ---
 
-*© Biljana Obradović · Concept360 · Belgrade, 2026*  
-*[linkedin.com/in/biljanaobradovic](https://www.linkedin.com/in/biljana-obradovic-28390a8/) · [concept360.rs](https://concept360.my.canva.site/)*
+## Who This Is For
+
+Programme and delivery managers entering RWA tokenisation for the first time — or inheriting programmes where the early layers were skipped.
+
+Legal, compliance, and technical leads who need a shared delivery language across functions.
+
+---
+
+## About This Framework
+
+The 7 Operational Layers of RWA Programmes is an original framework developed by **Biljana Obradović**, based on analysis of documented delivery failures, platform architectures, and 20+ years of experience delivering complex programmes in regulated environments.
+
+**If you use this framework in your work, attribution is required:**  
+*"7 Operational Layers of RWA Programmes — Biljana Obradović, Concept360, 2026"*
+
+---
+
+## Want to Go Deeper?
+
+**💼 Consulting**  
+Concept360 supports organisations entering regulated RWA programmes. Engagement covers delivery architecture, regulatory sequencing, vendor governance, and programme execution.  
+→ [biljana.obradovic@concept360.rs](mailto:biljana.obradovic@concept360.rs)  
+→ [linkedin.com/in/biljana-obradovic-28390a8](https://linkedin.com/in/biljana-obradovic-28390a8)
+
+**📄 Full Framework Materials**  
+A complete consulting deck, scenario guide, vendor ecosystem map, and document register are available to qualified engagements.  
+*The private repository for this framework exists. Access is by request.*
+
