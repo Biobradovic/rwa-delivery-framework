@@ -27,6 +27,7 @@ Every RWA programme requires 25 distinct delivery plans. The critical insight is
 - **Exit & Wind-Down Strategy** (L2) — must be disclosed in the Offering Memorandum before any investor subscribes.
 - **Key Person Succession Plan** (L0) — NCA approval for MLRO replacement: 4–8 weeks. Must exist before departure.
 
+**The Programme Director owns the gate — not every document. Each plan has a named owner and approver. Full ownership matrix in the private repository.**
 ---
 
 ## Risk Management — 11 Categories
@@ -56,18 +57,16 @@ Full risk register: 60+ risks, each with trigger condition, mitigation, owner, l
 
 ## Wallet Architecture — Five Types
 
-Every wallet type has a different custody model, signing authority, and compliance obligation. Wallet governance is a Layer 2 policy decision — not an operational afterthought.
+Wallet governance is defined in Layer 2 (policy) 
+and Layer 3 (specification). Each wallet type has 
+a different custody model, signing authority, and 
+compliance obligation.
 
-| Wallet type | Layer | Who owns it | Key compliance obligation |
-|-------------|-------|-------------|--------------------------|
-| **Investor wallets** | L4–L5 | Compliance PM + MLRO | Whitelisted before first transfer. AML flag = 24h removal. |
-| **SPV operational wallet** | L2, L6 | Banking PM + CFO | Multi-sig M-of-N. Key ceremony documented. |
-| **Treasury / reserve wallet** | L6 | CFO + COO | Segregated from operational. Included in PoR. |
-| **Smart contract admin wallet** | L3, L5 | Technical PM + CTO + PD | Board resolution for admin actions. Timelock on upgrades. |
-| **Market maker wallet** | L6 | Banking PM | Disclosed in exchange agreement. Monthly review. |
+Five types: Investor wallets · SPV operational wallet 
+· Treasury/reserve wallet · Smart contract admin wallet 
+· Market maker wallet
 
-**Key Ceremony** — mandatory before go-live. All key holders. Custodian present. CISO owns. Annual repeat.
-
+Key Ceremony — mandatory before go-live. All key holders convened. CISO owns. Annual repeat.
 ---
 
 ## Reporting Architecture — 12 Streams
@@ -121,6 +120,8 @@ RWA programmes run multiple parallel reporting obligations. Each stream has a na
 2. Screen minimum 3 banks simultaneously from Week 1 — never a single banking relationship
 3. Every vendor has a named PM owner — vendors without a named owner fail silently
 
+Full vendor RACI, SLA register, and selection criteria per operating model available in the private repository.
+
 ---
 
 ## What the Full Framework Contains
@@ -128,15 +129,11 @@ RWA programmes run multiple parallel reporting obligations. Each stream has a na
 The private repository includes:
 
 - **Consulting deck** — complete delivery architecture across all 7 layers with KPIs, RACI, strategies
-- **Operating models** — 5 models with team, costs, risks, Layer 0 decision framework
 - **Integration register** — 15 integrations with vendor, API type, lead time, SLA, escalation procedure
 - **Banking onboarding scenarios** — crypto-native vs neo vs traditional bank requirements
 - **Risk register** — 60+ risks, 11 categories, scoring system, trigger conditions
 - **KPI & milestones by layer** — gate criteria, red flags, go/no-go conditions per layer
 - **Asset type architecture** — Real Estate vs US Treasuries vs ESG delivery differences
-- **Case studies** — anonymised delivery scenarios
-- **Training programme** — RWA Delivery for Managers workshop, assessment, participant materials
-
 *Access by qualified engagement only.*
 
 ---
