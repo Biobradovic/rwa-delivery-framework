@@ -22,8 +22,6 @@ This framework maps the seven layers every regulated RWA programme must address 
 
 **[VENDOR_RISK_AGENT_UC.md](./VENDOR_RISK_AGENT_UC.md)** — Use case scenarios for the AI vendor risk escalation agent built on top of this framework.
 
-**[VENDOR_RISK_AGENT_RM.md](./VENDOR_RISK_AGENT_RM.md)** — Full architecture documentation for the three-agent system: Discovery → Vendor Risk & Escalation → Action.
-
 ---
 
 ## AI Agent System
@@ -50,4 +48,3 @@ The private repository for this framework exists. Full consulting deck, integrat
 
 → [biljana.obradovic@concept360.rs](mailto:biljana.obradovic@concept360.rs)
 → [linkedin.com/in/biljana-obradovic-28390a8](https://linkedin.com/in/biljana-obradovic-28390a8)
-
