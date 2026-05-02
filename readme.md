@@ -34,8 +34,7 @@ The agent classifies critical vendor incidents, maps regulatory obligations (DOR
 
 **Architecture:** Discovery Agent → Vendor Risk & Escalation Agent → Action Agent
 
-**Live demo:** [concept360vendoragent.netlify.app](https://concept360vendoragent.netlify.app)
-
+**Agent demo available to qualified enquiries.** Contact via LinkedIn or email to request access.
 See [VENDOR_RISK_AGENT_UC.md](./VENDOR_RISK_AGENT_UC.md) for two real-programme use cases (RWA tokenisation + multi-country bank core banking implementation).
 
 ---
