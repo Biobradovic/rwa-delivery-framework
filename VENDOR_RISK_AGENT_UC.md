@@ -4,9 +4,6 @@
 
 > This document presents two real-programme use cases demonstrating how the three-agent system (Discovery → Vendor Risk & Escalation → Action) handles critical vendor incidents in regulated fintech environments.
 >
-> For full architecture documentation, see [README.md](./README.md).
-
----
 
 ## How the Agent System Works — Quick Reference
 
