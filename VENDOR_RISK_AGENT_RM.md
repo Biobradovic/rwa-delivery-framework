@@ -10,7 +10,7 @@ This repository documents the architecture and decision logic behind an agentic 
 
 The system was developed for two live programmes:
 - **RWA Tokenisation Programme** — real-world asset tokenisation under MiCA and DORA
-- **NLB Group Banking Implementation** — multi-country T24 core banking rollout across Western Balkans
+- **Bank123 Group Banking Implementation** — multi-country T24 core banking rollout across Western Balkans
 
 The agent is not a chatbot. It is a structured decision-support and notification system that classifies vendor incidents, maps regulatory obligations, and routes escalations to the right stakeholders — automatically.
 
@@ -252,11 +252,9 @@ The agent presents options and escalates. It does not commit, approve, or overri
 
 ## Live Demo
 
-The current Phase 1 agent (Vendor Risk & Escalation) is deployed at:
-
-**[concept360vendoragent.netlify.app](https://concept360vendoragent.netlify.app)**
-
-Select any of the 10 pre-loaded scenarios or type a custom incident. The agent classifies severity, defines actions, and maps the escalation chain in real time.
+**Agent demo available to qualified enquiries.**
+Contact via LinkedIn or email to request access.
+biljana.obradovic@concept360.rs/biljana-obradovic-28390a8
 
 ---
 
@@ -264,9 +262,7 @@ Select any of the 10 pre-loaded scenarios or type a custom incident. The agent c
 
 The agent system is proprietary. This repository documents the architecture and decision logic for transparency and professional reference.
 
-To request a demo or discuss integration: **[your contact / LinkedIn]**
 
 ---
 
 *© Biljana Obradović · Concept360 · 2026*
-*Attribution required for any derivative work.*
