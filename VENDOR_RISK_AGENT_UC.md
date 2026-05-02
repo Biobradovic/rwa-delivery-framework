@@ -35,22 +35,6 @@ Given a vendor incident or scenario, the agent produces:
 - **Post-incident requirements** — RCA timeline, sign-off chain, documentation obligations
 
 ---
-
-## Live demo
-
-→ [concept360vendoragent.netlify.app](https://concept360vendoragent.netlify.app)
-
-Includes 10 test scenarios across RWA and NLB programmes:
-- Blockchain monitoring failure (AML exposure)
-- Core banking version mismatch blocking go-live
-- Middleware integration breakdown mid-wave
-- Smart contract audit delays
-- SPV custody risk
-
-Each scenario runs end-to-end in under 30 seconds.
-
----
-
 ## Stack
 
 Built with Claude (Anthropic) as the reasoning engine.  
@@ -62,6 +46,6 @@ Agent logic, scoring, and programme-specific configuration are in a private repo
 *Agent logic, operational scoring models, and full programme configuration are maintained in a private delivery framework and are not part of this repository.*
 
 ## About
-
+For a live walkthrough of the agent in action, feel free to reach out via 
 → [biljana.obradovic@concept360.rs](mailto:biljana.obradovic@concept360.rs)
 → [linkedin.com/in/biljana-obradovic-28390a8](https://linkedin.com/in/biljana-obradovic-28390a8)
