@@ -60,3 +60,8 @@ Agent logic, scoring, and programme-specific configuration are in a private repo
 ---
 
 *Agent logic, operational scoring models, and full programme configuration are maintained in a private delivery framework and are not part of this repository.*
+
+## About
+
+→ [biljana.obradovic@concept360.rs](mailto:biljana.obradovic@concept360.rs)
+→ [linkedin.com/in/biljana-obradovic-28390a8](https://linkedin.com/in/biljana-obradovic-28390a8)
