@@ -1,50 +1,62 @@
-# Vendor Risk Agent — Overview
+# Vendor Risk & Escalation Agent
 
-## Context
+**Programme Intelligence System — Concept360 RWA & Fintech Delivery**
 
-In complex, multi-vendor fintech programmes, vendor-related risk is one of the primary drivers of delivery delays, integration failures, and missed go-live targets.
+---
 
-Traditional risk tracking is reactive and heavily dependent on manual reporting, which often results in late detection of critical issues.
+## What this is
 
-## Objective
+A working AI agent built to support senior programme delivery in regulated fintech and RWA environments.
 
-The Vendor Risk Agent is designed to proactively identify, classify, and surface vendor-related risks based on delivery signals, dependency criticality, and behavioural patterns across programme execution.
+It takes vendor incidents and integration failures — and turns them into structured, decision-ready outputs: immediate actions, escalation sequences, and regulatory obligation mapping.
 
-## Approach
+Built by a Programme Manager running live multi-country delivery across RWA tokenisation and NLB (core banking) programmes.
 
-The agent evaluates vendor risk using a combination of:
+---
 
-- Delivery performance signals (delays, missed milestones, quality issues)
-- Dependency criticality across systems, countries, and integration layers
-- Escalation patterns and communication breakdowns
-- Alignment with programme governance and compliance expectations
+## The problem it solves
 
-Rather than relying solely on explicit risk reporting, the agent is designed to detect *implicit risk signals* within operational data.
+In large regulated programmes, vendor issues don't arrive as clean risk reports.  
+They arrive as a Slack message at 20:00, a missed SLA nobody flagged, a compliance gap buried in a status update.
 
-## Outputs
+By the time it reaches the right person, the window for clean escalation is gone.
 
-The agent produces structured, decision-oriented outputs:
+This agent closes that gap.
 
-- Risk classification (Low / Medium / High / Critical)
-- Key contributing factors (not just symptoms)
-- Suggested mitigation directions
-- Escalation recommendation (if applicable)
+---
 
-## Role in Programme Intelligence System
+## What it does
 
-The Vendor Risk Agent operates as part of a broader Programme Intelligence framework, where:
+Given a vendor incident or scenario, the agent produces:
 
-- Meeting Notes Agent extracts structured delivery signals
-- Risk Agents interpret and classify risk
-- Dashboard layer provides real-time visibility to leadership
+- **Immediate actions** — what to do in the next 60 minutes
+- **Escalation sequence** — who to notify, in what order, with what framing
+- **Regulatory obligation** — AML, DORA, or jurisdiction-specific exposure assessment
+- **Post-incident requirements** — RCA timeline, sign-off chain, documentation obligations
 
-## Note
+---
 
-This repository contains a simplified and conceptual representation of the approach.  
-Detailed agent logic, scoring models, and operational implementation are part of a private delivery framework.
+## Live demo
 
-## Why It Matters
+→ [concept360vendoragent.netlify.app](https://concept360vendoragent.netlify.app)
 
-In large-scale delivery environments, the challenge is not lack of data — it is lack of structured interpretation.
+Includes 10 test scenarios across RWA and NLB programmes:
+- Blockchain monitoring failure (AML exposure)
+- Core banking version mismatch blocking go-live
+- Middleware integration breakdown mid-wave
+- Smart contract audit delays
+- SPV custody risk
 
-This agent shifts risk management from reactive reporting to proactive detection.
+Each scenario runs end-to-end in under 30 seconds.
+
+---
+
+## Stack
+
+Built with Claude (Anthropic) as the reasoning engine.  
+Frontend deployed on Netlify. Scenario data is structured JSON.  
+Agent logic, scoring, and programme-specific configuration are in a private repository.
+
+---
+
+*Agent logic, operational scoring models, and full programme configuration are maintained in a private delivery framework and are not part of this repository.*
